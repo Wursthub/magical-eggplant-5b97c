@@ -7,7 +7,7 @@
         "subtitle": "test",
         "home_items": [
             {
-                "name": "GOLDROSE",
+                "name": "test",
                 "image": "images/goldenrose.png",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed venenatis eros imperdiet nibh tempor luctus. Maecenas efficitur augue nunc, ac suscipit nisl pretium in. ",
                 "completed": "Summer 2019"
